@@ -1,7 +1,11 @@
-# To Do
+# ToDo (em desenvolvimento)
 
-A new Flutter project.
+ToDo simples com um design diferente.
+* CRUD com banco de dados Supabase
+* Light e Dark Mode
 
-## Getting Started
+<img src="https://github.com/user-attachments/assets/b3b36b21-f5c3-4863-8e51-2a390cb5386e" width="400">
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+## Link para visualização
+
+https://to-do-mvp.flutterflow.app/
